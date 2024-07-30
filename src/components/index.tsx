@@ -1,3 +1,4 @@
-import CallToAction from "./CallToAction/CallToAction";
 
-export default { CallToAction }
+import ProductDetailsWithCustomButton from "./sections/ProductDetail";
+
+export default { ProductDetailsWithCustomButton }
